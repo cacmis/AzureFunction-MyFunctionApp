@@ -1,6 +1,8 @@
+# Steps to Create the POC
+
 Certainly! Let’s create a simple Proof of Concept (POC) using Azure Functions with C#. In this example, we’ll build an HTTP-triggered Azure Function that processes incoming JSON data and logs a message.
 
-### Steps to Create the POC
+
 
 #### 1. **Set Up the Environment**
 
@@ -84,6 +86,14 @@ You should receive a response:
 ```json
 "Hello, John. You are 30 years old."
 ```
+
+Using Thunder Clien extension in VSCode
+
+![alt text](image.png)
+
+Response.
+![alt text](image-1.png)
+
 
 #### 6. **Deploy to Azure**
 

@@ -113,4 +113,4 @@ You should receive a response:
 
 ### Summary
 
-You’ve now created a basic Azure Function in C# that processes HTTP requests, logs data, and returns a response. You can expand on this by adding more functionality, such as additional triggers, integration with other Azure services, or more complex processing logic. Let me know if you need help with any specific part of this process!
+You’ve now created a basic Azure Function in C# that processes HTTP requests, logs data, and returns a response. You can expand on this by adding more functionality, such as additional triggers, integration with other Azure services, or more complex processing logic. 
